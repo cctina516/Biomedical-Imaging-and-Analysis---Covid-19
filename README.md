@@ -4,7 +4,7 @@ This project is for developing and experimenting a biomedical image analysis sys
 
 Dataset from The Cancer Imaging Archive (TCIA).
 
-Segmentation - cybranch
+Segmentation - cy_branch
 
 Watershed - 
 
