@@ -6,7 +6,7 @@ Dataset from The Cancer Imaging Archive (TCIA).
 
 Segmentation - cy_branch
 
-Watershed - 
+Watershed with ImageJ - 
 
 Registration - 
 
