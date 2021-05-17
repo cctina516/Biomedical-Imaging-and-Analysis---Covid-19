@@ -10,4 +10,3 @@ Watershed with ImageJ - rh_branch
 
 Registration - wl_branch
 
-Quantification - 
